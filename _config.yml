@@ -1,3 +1,6 @@
 title: Tim Dowd
 
+header_pages:
+  - papers.md
+
 theme: minima
