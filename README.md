@@ -2,15 +2,10 @@
 title: Tim Dowd's Website
 ---
 
-## Under Construction
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FThe_Economist&psig=AOvVaw2Xzi5E9CW5nO8cqseJ87HV&ust=1674697515884000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNDUvsXM4fwCFQAAAAAdAAAAABAE)
 
-## Husband, Father, Economist, Soccer Player
+ *Under Construction*
 
-## Links to my papers in backwards chronological order
+## Husband, Father, Son, Economist, Soccer Player
 
-
-Please come back later. 
-
-## Testing section
-
-This is a link to [google](https://www.google.com)
+See the papers page for my papers
