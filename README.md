@@ -9,3 +9,7 @@ layout: home
 ## Husband, Father, Son, Economist, Soccer Player
 
 See the papers page for my papers
+
+[Here are some cool links](/cool-links)
+
+
