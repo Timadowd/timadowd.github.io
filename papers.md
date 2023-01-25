@@ -1,6 +1,5 @@
 ---
 title: Papers
-permalink: research
 layout: page
 ---
 
