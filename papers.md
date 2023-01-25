@@ -1,6 +1,7 @@
 ---
 title: Papers
 permalink: research
+layout: page
 ---
 
 This is where links to papers can be found.
